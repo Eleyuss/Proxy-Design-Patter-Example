@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "nameDep": "Human Resources",
+    "nameSDep": "HR",
+    "codeDep": "001",
+    "emailHead": "hr_head@company.com",
+    "phoneHead": "12-345"
+  },
+  {
+    "id": 2,
+    "nameDep": "Information Technology",
+    "nameSDep": "IT",
+    "codeDep": "002",
+    "emailHead": "it_head@company.com",
+    "phoneHead": "34-567"
+  },
+  {
+    "id": 3,
+    "nameDep": "Finance",
+    "nameSDep": "Fin",
+    "codeDep": "003",
+    "emailHead": "finance_head@company.com",
+    "phoneHead": "56-789"
+  },
+  {
+    "id": 4,
+    "nameDep": "Marketing",
+    "nameSDep": "Mkt",
+    "codeDep": "004",
+    "emailHead": "marketing_head@company.com",
+    "phoneHead": "78-910"
+  },
+  {
+    "id": 5,
+    "nameDep": "Customer Support",
+    "nameSDep": "CS",
+    "codeDep": "005",
+    "emailHead": "support_head@company.com",
+    "phoneHead": "90-123"
+  }
+]
